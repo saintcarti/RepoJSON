@@ -2,83 +2,12 @@
   "events": [
     {
       "id": "1",
-      "imagen": "Taller1.png",
-      "nombre": "Taller de Desarrollo Web con JavaScript",
-      "fecha": "2024-11-05",
-      "lugar": "Centro de Capacitación TechHub",
-      "descripcion": "Aprende las bases del desarrollo web utilizando JavaScript moderno, incluyendo frameworks populares como React y Vue.js. Dirigido a principiantes y desarrolladores intermedios."
-    },
-    {
-      "id": "2",
-      "imagen": "Taller2.png",
-      "nombre": "Curso Intensivo de Ciberseguridad",
-      "fecha": "2024-12-15",
-      "lugar": "Universidad Tecnológica",
-      "descripcion": "Un curso completo sobre ciberseguridad que cubre desde la protección de redes hasta la seguridad en aplicaciones web. Ideal para profesionales de TI y estudiantes avanzados."
-    },
-    {
-      "id": "3",
-      "imagen": "Taller3.png",
-      "nombre": "Conferencia Internacional de Inteligencia Artificial",
-      "fecha": "2024-12-01",
-      "lugar": "Centro de Convenciones Digital",
-      "descripcion": "Una conferencia que reúne a expertos del mundo en inteligencia artificial para discutir los avances más recientes en machine learning, redes neuronales y sus aplicaciones en el mundo real."
-    },
-    {
-      "id": "4",
-      "imagen": "taller4.png",
-      "nombre": "Workshop de DevOps y Automatización",
-      "fecha": "2024-10-22",
-      "lugar": "Laboratorio TechZone",
-      "descripcion": "Un taller práctico sobre cómo implementar prácticas de DevOps, automatización de despliegues y herramientas CI/CD en proyectos de software. Incluye uso de Docker, Kubernetes y Jenkins."
-    },
-    {
-      "id": "5",
-      "imagen": "taller5.jpg",
-      "nombre": "Hackathon de Ciberseguridad",
-      "fecha": "2024-11-20",
-      "lugar": "Oficinas CyberSafe",
-      "descripcion": "Una competencia intensa donde los participantes ponen a prueba sus habilidades de hacking ético y seguridad informática, resolviendo retos en tiempo real. Abierto a todos los niveles."
-    },
-    {
-      "id": "6",
-      "imagen": "taller6.jpg",
-      "nombre": "Curso de Programación en Python para Ciencia de Datos",
-      "fecha": "2024-11-10",
-      "lugar": "Academia Online DataMasters",
-      "descripcion": "Curso especializado en Python orientado al análisis de datos y machine learning. Perfecto para quienes desean iniciar una carrera en ciencia de datos o mejorar sus habilidades en este campo."
-    },
-    {
-      "id": "7",
-      "imagen": "taller7.jpg",
-      "nombre": "Seminario sobre Blockchain y Criptomonedas",
-      "fecha": "2024-12-05",
-      "lugar": "Auditorio Blockchain Innovators",
-      "descripcion": "Seminario sobre los fundamentos del blockchain y las criptomonedas. Conoce las tecnologías que impulsan las cadenas de bloques y cómo se están utilizando en industrias como finanzas y logística."
-    },
-    {
-      "id": "8",
-      "imagen": "taller8.jpg",
-      "nombre": "Taller de Desarrollo de Aplicaciones Móviles con Flutter",
-      "fecha": "2024-10-28",
-      "lugar": "Campus Tecnológico Creativa",
-      "descripcion": "Taller práctico donde aprenderás a crear aplicaciones móviles con Flutter, el framework de Google, utilizando Dart. Dirigido a desarrolladores que quieran incursionar en el desarrollo móvil multiplataforma."
-    },
-    {
-      "id": "9",
-      "imagen": "taller9.jpg",
-      "nombre": "Seminario de Seguridad en la Nube",
-      "fecha": "2024-11-25",
-      "lugar": "Centro de Convenciones CloudSec",
-      "descripcion": "Un seminario sobre las mejores prácticas de seguridad en la nube. Explora estrategias para proteger entornos de nube pública y privada, cubriendo plataformas como AWS, Azure y Google Cloud."
-    },
-    {
-      "id": "10",
-      "imagen": "taller10.png",
-      "nombre": "Jornada de Desarrollo de Videojuegos con Unity",
-      "fecha": "2024-10-30",
-      "lugar": "Academia Creativa",
-      "descripcion": "Una jornada completa para aprender a desarrollar videojuegos utilizando Unity. Desde el diseño de personajes hasta la programación de la lógica del juego. Ideal para quienes buscan introducirse en la industria del gaming."
+      "imagen": "",
+      "nombre": "",
+      "fecha": "",
+      "lugar": "",
+      "descripcion": "",
+      "isActive":true
     }
   ],
   "usuarios": [
