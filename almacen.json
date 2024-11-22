@@ -370,7 +370,13 @@
   ],
   "Administradores":[
     {
-      
+      "id":"",
+      "nombre":"",
+      "email":"",
+      "rut":"",
+      "password":"",
+      "imagen":"",
+      "isActive":true
     }
   ]
 }
